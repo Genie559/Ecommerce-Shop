@@ -1,6 +1,6 @@
 # E-Shop
 
-![Logo](https://github.com/tejasbadone/E-Shop/blob/main/assets/app_logo.png?raw=true)
+![Logo](https://github.com/Genie559/E-Shop/blob/main/assets/app_logo.png?raw=true)
 
 The E-Commerce application is a prototype developed using Flutter, a cross-platform mobile application development framework. The app offers a responsive UI, making it accessible on a variety of devices. One of the app's standout features is the beautiful hero animations, which help to create an engaging and immersive user experience.
 
@@ -26,17 +26,17 @@ Overall, the E-Commerce application is a promising prototype with a responsive U
 
 ## Screenshots
 
-![App Screenshot](https://tejasbadone.web.app/assets/img/portfolio/apps/eshop/eshop1-01.png)
+![App Screenshot](https://Genie559.web.app/assets/img/portfolio/apps/eshop/eshop1-01.png)
 
-![App Screenshot](https://tejasbadone.web.app/assets/img/portfolio/apps/eshop/eshop2-01.png)
+![App Screenshot](https://Genie559.web.app/assets/img/portfolio/apps/eshop/eshop2-01.png)
 
-![App Screenshot](https://tejasbadone.web.app/assets/img/portfolio/apps/eshop/eshop3-01.png)
+![App Screenshot](https://Genie559.web.app/assets/img/portfolio/apps/eshop/eshop3-01.png)
 
 ## Setup
 
 Run the following commands from your terminal:
 
-1. `https://github.com/tejasbadone/E-Shop.git` to clone this repository
+1. `https://github.com/Genie559/E-Shop.git` to clone this repository
 
 2. `flutter pub get` in the project root directory to install all the required dependencies.
 
