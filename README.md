@@ -28,9 +28,9 @@ Overall, the E-Commerce application is a promising prototype with a responsive U
 
 Run the following commands from your terminal:
 
-1. `https://github.com/Genie559/E-Shop.git` to clone this repository
+1. `https://github.com/Genie559/Ecommerce-Shop.git` to clone this repository
 
-2. `flutter pub get` in the project root directory to install all the required dependencies.
+3. `flutter pub get` in the project root directory to install all the required dependencies.
 
 ## Tech Stack
 
