@@ -1,6 +1,6 @@
 # E-Shop
 
-![Logo](https://github.com/Genie559/E-Shop/blob/main/assets/app_logo.png?raw=true)
+![Logo](https://github.com/Genie559/Ecommerce-Shop/blob/main/assets/app_logo.png?raw=true)
 
 The E-Commerce application is a prototype developed using Flutter, a cross-platform mobile application development framework. The app offers a responsive UI, making it accessible on a variety of devices. One of the app's standout features is the beautiful hero animations, which help to create an engaging and immersive user experience.
 
@@ -23,14 +23,6 @@ Overall, the E-Commerce application is a promising prototype with a responsive U
 - **Fetches product details from JSON** - The app fetches product details from JSON, making it easier to update product information.
 
 - **Integrated with Google Pay** - The app is integrated with Google Pay to facilitate easy and secure payments. However, this is just a prototype, so users cannot make actual transactions.
-
-## Screenshots
-
-![App Screenshot](https://Genie559.web.app/assets/img/portfolio/apps/eshop/eshop1-01.png)
-
-![App Screenshot](https://Genie559.web.app/assets/img/portfolio/apps/eshop/eshop2-01.png)
-
-![App Screenshot](https://Genie559.web.app/assets/img/portfolio/apps/eshop/eshop3-01.png)
 
 ## Setup
 
